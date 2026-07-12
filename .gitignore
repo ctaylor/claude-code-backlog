@@ -1,0 +1,14 @@
+# Generated dashboard output (recreated by generate_dashboard.py)
+BACKLOG/dashboard.html
+
+# Local capture / test artifacts (should never be committed)
+backlog-inbox.txt
+backlog_selftest.txt
+BACKLOG-backup.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
